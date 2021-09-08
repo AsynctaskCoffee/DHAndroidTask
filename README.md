@@ -23,7 +23,7 @@ The designs are given for you to get an idea. It is not mandatory to follow the 
 
 ### Informations:
 
-- Endpoint: https://api.donanimhaber.com/dev/and/api/videos?pageIndex=0&pageSize=15
+- Endpoint: https://api.donanimhaber.com/dev/and/api/newest?pageIndex=0&pageSize=15
 - You only need to parse the areas you want to use. Don't waste your time with unnecessary fields.
 - Pagination via pageIndex (incremental)
 - You can use pojo for retrofit (https://www.jsonschema2pojo.org)

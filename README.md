@@ -16,9 +16,12 @@ We want you to make a small news listing application with the api we use in the 
 
 ### Design
 
-![favoriler](http://url/to/img.png)
+The designs are given for you to get an idea. It is not mandatory to follow the designs exactly.
 
-![haberler](http://url/to/img.png)
+![favoriler](https://raw.githubusercontent.com/AsynctaskCoffee/DHAndroidTask/main/favs.png?token=ALMMEQMPWYPZZ5AN2GA6IVLBIIH22)
+
+![haberler](https://raw.githubusercontent.com/AsynctaskCoffee/DHAndroidTask/main/ss1%20fav.png?token=ALMMEQJYMOLDI4L4UNAFYIDBIIH54)
+
 
 
 ### Helpful informations:

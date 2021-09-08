@@ -2,7 +2,7 @@
 
 Donanımhaber Android Application consists of two main parts. The first part is the forum section, which consists of topics created by users and admins. The second part is the news section where our editors provide content.
 
-### Task
+### Task:
 
 We want you to make a small news listing application with the api we use in the official application. In this news listing application, users will be able to save news to favorites with long click. On normal click app will open browser and navigate the url from api (SourceUrl). And favorites will always be available to users regardless of internet status (offline). 
 
@@ -14,7 +14,7 @@ We want you to make a small news listing application with the api we use in the 
 - MVP or MVVM bonus.
 - Material design is bonus.
 
-### Design
+### Design:
 
 The designs are given for you to get an idea. It is not mandatory to follow the designs exactly.
 

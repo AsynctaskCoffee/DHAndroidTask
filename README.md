@@ -4,7 +4,7 @@ Donanımhaber Android Application consists of two main parts. The first part is 
 
 ### Task:
 
-We want you to make a small news listing application with the api we use in the official application. In this news listing application, users will be able to save news to favorites with long click. On normal click app will open browser and navigate the url from api (SourceUrl). And favorites will always be available to users regardless of internet status (offline). 
+We want you to make a small news listing application with the api we use in the official application. In this news listing application, users will be able to save news to favorites with long click or any design implementation. On normal click app will open browser and navigate the url from api (SourceUrl). And favorites will always be available to users regardless of internet status (offline). 
 
 - You should have two fragments (News and Favorites) and both should be connected via viewpager.
 - The news listing section should have an infinite scroll feature.

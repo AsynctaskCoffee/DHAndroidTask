@@ -18,7 +18,7 @@ We want you to make a small news listing application with the api we use in the 
 
 The designs are given for you to get an idea. It is not mandatory to follow the designs exactly.
 
-<img src = "https://raw.githubusercontent.com/AsynctaskCoffee/DHAndroidTask/main/ss1%20fav.png?token=ALMMEQJYMOLDI4L4UNAFYIDBIIH54" width ="300" /> <img src = "https://raw.githubusercontent.com/AsynctaskCoffee/DHAndroidTask/main/favs.png?token=ALMMEQMPWYPZZ5AN2GA6IVLBIIH22" width ="300" />
+<img src = "ss1%20fav.png" width ="300" /> <img src = "favs.png" width ="300" />
 
 
 ### Informations:

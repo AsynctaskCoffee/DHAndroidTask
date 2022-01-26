@@ -10,8 +10,8 @@ We want you to make a small news listing application with the api we use in the 
 - The news listing section should have an infinite scroll feature.
 - In the Favorites section, you should use realm or room.
 - Using Realm is a bonus.
-- Using Kotlin is a bonus.
-- MVP or MVVM bonus.
+- Kotlin is a must.
+- MVVM is a must.
 - Material design is bonus.
 
 ### Design:
